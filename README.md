@@ -1,5 +1,5 @@
-## [FIFA 2019 Women's World Cup](https://github.com/AminAlAit/19wwc)
-### [A Data Tour Around Venues & Attendance Numbers](https://github.com/AminAlAit/19wwc)
+## [FIFA 2019 Women's World Cup](https://github.com/AminAlAit/19wwc/blob/main/notebook.ipynb)
+### [A Data Tour Around Venues & Attendance Numbers](https://github.com/AminAlAit/19wwc/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> 
 <span style="background-color: #DCDCDC">Data Visualization</span> 
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
